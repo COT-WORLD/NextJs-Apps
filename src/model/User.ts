@@ -1,4 +1,3 @@
-import { truncate } from "fs";
 import mongoose, {Schema, Document} from "mongoose";
 
 export interface Message extends Document{
